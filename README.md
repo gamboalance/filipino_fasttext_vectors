@@ -30,4 +30,4 @@ These are the embeddings used for the paper below. Kindly cite this paper if you
 `    doi={10.1109/AIC57670.2023.10263949}`  
 `}`  
 
-L. C. L. Gamboa and M. R. J. E. Estuar, "Characterizing Bias in Word Embeddings Towards Analyzing Gender Associations in Philippine Texts," 2023 IEEE World Conference on Applied Intelligence and Computing (AIC), Sonbhadra, India, 2023, pp. 254-259, doi: 10.1109/AIC57670.2023.10263949. 
+L. C. L. Gamboa and M. R. J. E. Estuar, "[Characterizing Bias in Word Embeddings Towards Analyzing Gender Associations in Philippine Texts](https://ieeexplore.ieee.org/document/10263949)" 2023 IEEE World Conference on Applied Intelligence and Computing (AIC), Sonbhadra, India, 2023, pp. 254-259, doi: 10.1109/AIC57670.2023.10263949. 
